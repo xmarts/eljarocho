@@ -19,3 +19,6 @@
 [submodule "xmarts_financial_factor"]
 	path = xmarts_financial_factor
 	url = git@github.com:xmarts/xmarts_financial_factor.git
+[submodule "addenda_tiendas3b"]
+	path = addenda_tiendas3b
+	url = git@github.com:xmarts/addenda_tiendas3b.git
