@@ -16,3 +16,6 @@
 [submodule "fieldservice_xma"]
 	path = fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
+[submodule "xmarts_financial_factor"]
+	path = xmarts_financial_factor
+	url = git@github.com:xmarts/xmarts_financial_factor.git
