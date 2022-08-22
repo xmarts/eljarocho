@@ -7,3 +7,6 @@
 [submodule "branch"]
 	path = branch
 	url = git@github.com:xmarts/branch.git
+[submodule "credit_limit_alert_update"]
+	path = credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
