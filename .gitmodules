@@ -1,0 +1,3 @@
+[submodule "account-multi-pay"]
+	path = account-multi-pay
+	url = git@github.com:xmarts/account-multi-pay.git
