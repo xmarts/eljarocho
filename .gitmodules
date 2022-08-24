@@ -30,3 +30,8 @@
 	path = xmarts/amount_to_text
 	url = git@github.com:xmarts/amount_to_text.git
 	branch = 15.0
+
+[submodule "xmarts/addenda_siete24"]
+	path = xmarts/addenda_siete24
+	url = git@github.com:xmarts/addenda_siete24.git
+	branch = 15.0
