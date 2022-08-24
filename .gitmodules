@@ -45,3 +45,8 @@
 	path = xmarts/addendas_walmart
 	url = git@github.com:xmarts/addendas_walmart.git
 	branch = 15.0
+
+[submodule "xmarts/addenda_superprecio"]
+	path = xmarts/addenda_superprecio
+	url = git@github.com:xmarts/addenda_superprecio.git
+	branch = 15.0
