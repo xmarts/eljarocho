@@ -22,3 +22,6 @@
 [submodule "addenda_tiendas3b"]
 	path = addenda_tiendas3b
 	url = git@github.com:xmarts/addenda_tiendas3b.git
+[submodule "stock-diference-jaro"]
+	path = stock-diference-jaro
+	url = git@github.com:xmarts/stock-diference-jaro.git
