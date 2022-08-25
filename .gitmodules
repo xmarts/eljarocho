@@ -55,3 +55,8 @@
 	path = xmarts/addenda_sanfranciscoasis
 	url = git@github.com:xmarts/addenda_sanfranciscoasis.git
 	branch = 15.0
+
+[submodule "xmarts/addenda_farmgdl"]
+	path = xmarts/addenda_farmgdl
+	url = git@github.com:xmarts/addenda_farmgdl.git
+	branch = 15.0
