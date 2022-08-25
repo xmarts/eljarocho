@@ -50,3 +50,8 @@
 	path = xmarts/addenda_superprecio
 	url = git@github.com:xmarts/addenda_superprecio.git
 	branch = 15.0
+
+[submodule "xmarts/addenda_sanfranciscoasis"]
+	path = xmarts/addenda_sanfranciscoasis
+	url = git@github.com:xmarts/addenda_sanfranciscoasis.git
+	branch = 15.0
