@@ -60,3 +60,8 @@
 	path = xmarts/addenda_farmgdl
 	url = git@github.com:xmarts/addenda_farmgdl.git
 	branch = 15.0
+
+[submodule "xmarts/addenda-heb"]
+	path = xmarts/addenda-heb
+	url = git@github.com:xmarts/addenda-heb.git
+	branch = 15.0
