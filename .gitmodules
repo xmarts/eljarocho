@@ -65,3 +65,6 @@
 	path = xmarts/addenda-heb
 	url = git@github.com:xmarts/addenda-heb.git
 	branch = 15.0
+[submodule "ieps_calculation"]
+	path = ieps_calculation
+	url = git@github.com:xmarts/ieps_calculation.git
