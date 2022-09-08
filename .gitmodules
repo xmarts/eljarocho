@@ -71,3 +71,8 @@
 [submodule "close-of-box"]
 	path = close-of-box
 	url = git@github.com:xmarts/close-of-box.git
+
+[submodule "xmarts/axo_mobile_sales"]
+	path = xmarts/axo_mobile_sales
+	url = git@github.com:xmarts/axo_mobile_sales.git
+	branch = 15.0
